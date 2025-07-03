@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kmkmtrtr.kirerukamo",
+      "sha256_cert_fingerprints": [
+        "7E:B3:B0:B3:59:CD:DF:B9:3C:45:35:6C:FB:7F:EC:FA:E6:82:BD:9D:AD:00:2A:9E:57:00:52:A0:CD:25:AF:E9"
+      ]
+    }
+  }
+]
